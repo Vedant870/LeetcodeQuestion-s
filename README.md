@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/0001-two-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -41,12 +44,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
