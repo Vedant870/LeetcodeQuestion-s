@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -73,14 +75,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -119,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
