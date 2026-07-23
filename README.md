@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
