@@ -257,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
