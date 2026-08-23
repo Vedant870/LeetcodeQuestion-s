@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1189-maximum-number-of-balloons) |
+| [1927-sum-game](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
