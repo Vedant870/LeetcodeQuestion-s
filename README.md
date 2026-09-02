@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vedant870/LeetcodeQuestion-s/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
